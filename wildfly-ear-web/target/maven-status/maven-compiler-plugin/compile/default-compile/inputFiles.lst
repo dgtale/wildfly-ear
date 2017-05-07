@@ -1,4 +1,10 @@
+D:\Workspaces\eclipse\samples\wildfly-ear\wildfly-ear-web\src\main\java\com\dg\samples\rest\annotation\Secured.java
 D:\Workspaces\eclipse\samples\wildfly-ear\wildfly-ear-web\src\main\java\com\dg\samples\rest\MemberResourceRESTService.java
 D:\Workspaces\eclipse\samples\wildfly-ear\wildfly-ear-web\src\main\java\com\dg\samples\controller\MemberController.java
+D:\Workspaces\eclipse\samples\wildfly-ear\wildfly-ear-web\src\main\java\com\dg\samples\rest\annotation\AuthenticatedUser.java
+D:\Workspaces\eclipse\samples\wildfly-ear\wildfly-ear-web\src\main\java\com\dg\samples\rest\AuthenticationEndpoint.java
 D:\Workspaces\eclipse\samples\wildfly-ear\wildfly-ear-web\src\main\java\com\dg\samples\util\WebResources.java
+D:\Workspaces\eclipse\samples\wildfly-ear\wildfly-ear-web\src\main\java\com\dg\samples\rest\authentication\AuthenticationFilter.java
+D:\Workspaces\eclipse\samples\wildfly-ear\wildfly-ear-web\src\main\java\com\dg\samples\rest\authentication\AuthenticatedUserProducer.java
 D:\Workspaces\eclipse\samples\wildfly-ear\wildfly-ear-web\src\main\java\com\dg\samples\rest\JaxRsActivator.java
+D:\Workspaces\eclipse\samples\wildfly-ear\wildfly-ear-web\src\main\java\com\dg\samples\rest\MyEndpoint.java
